@@ -2,95 +2,92 @@
  
 <img src="https://user-images.githubusercontent.com/99879325/194298268-fe999c30-6327-46ff-b565-4425f7affefd.jpeg" width="670" /> 
 
-This site will serve as a helpful tool in providing people with the crucial information of what to do and what not to do before, during, or after a natural disaster, but more specifically, during an **earthquake**.
+Ang site na ito ay magsisilbing isang kapaki-pakinabang na tool sa pagbibigay sa mga tao ng mahalagang impormasyon kung ano ang dapat gawin at hindi dapat gawin bago, habang, o pagkatapos ng isang natural na sakuna, ngunit mas partikular, sa panahon ng lindol.
 
-But before we dive straight into this topic, lets first, know what the what an earthquake is, what causes it and how do these affect us and/or our  environment both negatively and positively.
+Ngunit bago tayo dumiretso sa paksang ito, alamin muna natin kung ano ang lindol, ano ang sanhi nito at paano ito nakakaapekto sa atin at/o sa ating kapaligiran parehong negatibo at positibo.
 
-## EARTHQUAKES
+## LINDOL
 
 <img src="https://user-images.githubusercontent.com/99879325/194078362-cadbe801-c516-418e-abc1-910c124ce0d0.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" />
   
-### What is an earthquake and what causes it?
+### Ano ang lindol at ano ang sanhi nito?
   
-An earthquake is an intense shaking of the Earth's surface. it is caused by a sudden slip on a fault. The tectonic plates are always slowly moving, but they get stuck at their edges due to friction. When the stress on the edge overcomes the friction, there is an earthquake that releases energy in waves that travels through the earth's crust which causes the temporary shaking we sense. 
+Ang lindol ay isang matinding pagyanig ng ibabaw ng mundo. ito ay sanhi ng isang biglaang pagkadulas sa isang fault. Ang mga tectonic plate ay palaging mabagal na gumagalaw, ngunit sila ay natigil sa kanilang mga gilid dahil sa alitan. Kapag nalampasan ng stress sa gilid ang _friction_, mayroong isang lindol na naglalabas ng enerhiya sa mga alon na naglalakbay sa _crust_ ng lupa na nagdudulot ng pansamantalang pagyanig na nararamdaman natin.
  
-### Why do earthquakes exist? What is the importance of earthquakes?
+### Bakit may mga lindol? Ano ang kahalagahan ng lindol?
   
-Earthquakes are very useful to humans because they provide a picture of what's going on underground. This can make oil and gas extraction more efficient, and allows scientists to monitor the progress of water during geothermal energy extraction. They also tell you what is happening in the structure of the earth, for example, magma chambers, and allow us to monitor volcanoes and the threat of eruption.  
+Ang mga lindol ay lubhang kapaki-pakinabang sa mga tao dahil nagbibigay sila ng larawan ng kung ano ang nangyayari sa ilalim ng lupa. Maaari nitong gawing mas mahusay ang pagkuha ng langis at _gas_, at nagbibigay-daan sa mga siyentipiko na subaybayan ang pag-unlad ng tubig sa panahon ng pagkuha ng geothermal na enerhiya. Sinasabi rin nila sa iyo kung ano ang nangyayari sa istraktura ng lupa, halimbawa, mga silid ng _magma_, at pinapayagan kaming subaybayan ang mga bulkan at ang banta ng pagsabog.
 
-### Why should we prepare for an earthquake?
+### Bakit tayo dapat maghanda para sa isang lindol?
 
-Earthquake episodes trigger some immediate effects such as ground shaking, surface rupture, damage to human structures and deaths. Called primary effects, these events are directly related to fault movement. Eventually, some other effects may occur due to sustained vibrations and faulting. Such activities, called secondary effects, can be related to other hazards like tsunamis and landslides. Or they can lead to changes in land elevation, fire and even diseases. Earthquakes strike suddenly, violently and without warning. Many injuries suffered during earthquakes result from items falling or shifting due to the shaking of the earth. Identifying potential hazards prior to an earthquake can protect you and your family. Repairing and reinforcing building foundations, securing furniture and other objects to walls and floors, and following local seismic building standards will help reduce the impact of earthquakes.
+Ang mga yugto ng lindol ay nagdudulot ng ilang agarang epekto gaya ng pagyanig ng lupa, pagkawasak ng ibabaw, pinsala sa mga istruktura ng tao at pagkamatay. Tinatawag na pangunahing epekto, ang mga kaganapang ito ay direktang nauugnay sa paggalaw ng pagkakamali. Sa kalaunan, ang ilang iba pang mga epekto ay maaaring mangyari dahil sa patuloy na mga _vibrations at faulting_. Ang ganitong mga aktibidad, na tinatawag na pangalawang epekto, ay maaaring nauugnay sa iba pang mga panganib tulad ng _tsunami_ at pagguho ng lupa. O maaari silang humantong sa mga pagbabago sa _elevation_ ng lupa, sunog at kahit na mga sakit. Biglang tumama ang mga lindol, marahas at walang babala. Maraming pinsalang natamo sa panahon ng lindol ay resulta ng pagkahulog o paglilipat ng mga bagay dahil sa pagyanig ng lupa. Ang pagtukoy sa mga potensyal na panganib bago ang isang lindol ay maaaring maprotektahan ka at ang iyong pamilya. Ang pag-aayos at pagpapatibay ng mga pundasyon ng gusali, pag-secure ng mga kasangkapan at iba pang bagay sa mga dingding at sahig, at pagsunod sa mga lokal na pamantayan ng gusali ng seismic ay makakatulong na mabawasan ang epekto ng mga lindol.
 
  
 ## DO's and DONT's
 <img src="https://user-images.githubusercontent.com/99879325/194294232-ae2fd04e-0bf4-4619-918d-6a8039f8c68a.jpg" width="670" /> 
   
-### What to do before an earthquake
+### Ano ang dapat gawin bago ang lindol
 
-- Make sure you have a fire extinguisher, first aid kit, a battery-powered radio, a flashlight, and extra batteries at home.
+- Tiyaking mayroon kang _fire extinguisher, first aid kit_, radyong pinapagana ng baterya, _flashlight_, at mga dagdag na baterya sa bahay.
 
-- Learn first aid. 
+- Matuto ng _first aid_.
 
-- Learn how to turn off the gas, water, and electricity.
+- Alamin kung paano patayin ang gas, tubig, at kuryente.
 
-- Make up a plan of where to meet your family after an earthquake. 
+- Gumawa ng plano kung saan makikilala ang iyong pamilya pagkatapos ng lindol.
 
-- Anchor heavy furniture, cupboards, and appliances to the walls or floor. 
+- Angkla ng mabibigat na kasangkapan, aparador, at kagamitan sa mga dingding o sahig.
 
-- Learn the earthquake plan at your school or workplace.
+- Alamin ang plano ng lindol sa iyong paaralan o lugar ng trabaho.
   
-  ### What to do during an earthquake
+  ### Ano ang dapat gawin sa panahon ng lindol
   
-- **Stay calm!** If you're indoors, stay inside. If you're outside, stay outside.
+- **Manatiling kalmado!** Kung nasa loob ka ng bahay, manatili sa loob. Kung nasa labas ka, manatili sa labas.
 
-- If you're indoors, stand against a wall near the center of the building, stand in a doorway, or crawl under heavy furniture (a desk or table). Stay away from windows and outside doors. 
+- Kung ikaw ay nasa loob ng bahay, tumayo sa dingding malapit sa gitna ng gusali, tumayo sa isang pintuan, o gumapang sa ilalim ng mabibigat na kasangkapan (isang mesa o mesa). Lumayo sa mga bintana at pintuan sa labas.
 
-- Drop, cover, and hold. **Drop** down onto your hands and knees before the earthquake knocks you down, **cover** your head and neck (and your entire body if possible) underneath a sturdy table or desk, **hold** on to your shelter (or to your head and neck) until the shaking stops.
+- _Duck, cover, and hold_. **duck** sa iyong mga kamay at tuhod bago ka itumba ng lindol, **cover** ang iyong ulo at leeg (at ang iyong buong katawan kung maaari) sa ilalim ng matibay na mesa o mesa, **hold** ang iyong kanlungan (o sa iyong ulo at leeg) hanggang sa tumigil ang pagyanig.
 
-- If you're outdoors, stay in the open away from power lines or anything that might fall. Stay away from buildings (stuff might fall off the building or the building could fall on you.)
+- Kung nasa labas ka, manatili sa bukas na malayo sa mga linya ng kuryente o anumang bagay na maaaring mahulog. Lumayo sa mga gusali (maaaring mahulog ang mga bagay sa gusali o maaaring mahulog ang gusali sa iyo.)
 
-- If you're in a car, stop the car and stay inside the car until the earthquake stops.
+- Kung ikaw ay nasa kotse, ihinto ang sasakyan at manatili sa loob ng sasakyan hanggang sa tumigil ang lindol.
   
-  ### What to do after an earthquake
+  ### Ano ang gagawin pagkatapos ng lindol
   
-- Check yourself and others for injuries. Provide first aid for anyone who needs it.  
+- Suriin ang iyong sarili at ang iba para sa mga pinsala. Magbigay ng paunang lunas sa sinumang nangangailangan nito.
 
-- Check water, gas, and electric lines for damage. If any are damaged, shut off the valves. Check for the smell of gas. If you smell it, open all the       windows and doors, leave immediately, and report it to the authorities (use someone else's phone.)  
+- Suriin kung may pinsala ang mga linya ng tubig, gas, at kuryente. Kung may nasira, patayin ang mga balbula. Suriin kung may amoy ng gas. Kung naamoy mo ito, buksan ang lahat ng mga bintana at pinto, umalis kaagad, at iulat ito sa mga awtoridad (gumamit ng telepono ng ibang tao.)
 
-- Turn on the radio. Don't use the phone unless it's an emergency.
+- Buksan ang radyo. Huwag gamitin ang telepono maliban kung ito ay isang emergency.
 
-- Stay out of damaged buildings.  
+- Lumayo sa mga nasirang gusali.
 
-- Be careful around broken glass and debris. Wear boots or sturdy shoes to keep from cutting your feet. 
+- Mag-ingat sa paligid ng mga basag na salamin at mga labi. Magsuot ng bota o matibay na sapatos upang hindi maputol ang iyong mga paa.
 
-- Be careful of chimneys (they may fall on you).  
+- Mag-ingat sa mga _chimney_ (maaaring mahulog ang mga ito sa iyo).
 
-- Stay away from beaches. Tsunamis and seiches sometimes hit after the ground has stopped shaking.  
+- Lumayo sa mga nasirang lugar.
 
-- Stay away from damaged areas. 
+- Kung ikaw ay nasa paaralan o trabaho, sundin ang planong pang-emerhensiya o ang mga tagubilin ng taong kinauukulan.
+Asahan ang mga _aftershocks_.
 
-- If you're at school or work, follow the emergency plan or the instructions of the person in charge.
-Expect aftershocks.
+### Ano ang HINDI dapat gawin sa isang lindol
 
-### What NOT to do in an earthquake
+- HUWAG buksan muli ang gas kung pinatay mo ito; hayaan ang kumpanya ng gasolinahan na gawin ito.
 
-- DO NOT turn on the gas again if you turned it off; let the gas company do it.
+- HUWAG gumamit ng posporo, lighter, _camp stoves_ o _barbecue_, _electrical equipment_, _appliances_ HANGGANG nakakasigurado kang walang _gas leaks_. Maaari silang lumikha ng _spark_ na maaaring mag-apoy ng tumutulo na gas at magdulot ng pagsabog at sunog.
 
-- DO NOT use matches, lighters, camp stoves or barbecues, electrical equipment, appliances UNTIL you are sure there are no gas leaks. They may create spark that could ignite leaking gas and cause an explosion and fire.
+- HUWAG gamitin ang iyong telepono, MALIBAN para sa isang medikal o emerhensiyang sunog. Maaari mong itali ang mga linyang kailangan para sa _emergency_ na pagtugon. Kung ang telepono ay hindi gumagana magpadala ng isang tao para sa tulong.
 
-- DO NOT use your telephone, EXCEPT for a medical or fire emergency. You could tie up the lines needed for emergency response. If the phone doesn't work send someone for help.
+- HUWAG asahan na tutulungan ka ng mga bumbero, pulis o paramedic. Maaaring hindi sila magagamit.
 
-- DO NOT expect firefighters, police or paramedics to help you. They may not be available.
-
-- DO NOT leave heavy objects on shelves (they'll fall during a quake).
+- HUWAG mag-iwan ng mabibigat na bagay sa mga istante (malalaglag sila sa panahon ng lindol).
 
 
 
 
 
-
-#### Sources:
+#### Mga Sangunnian:
 https://www.yonature.com/effects-earthquakes-positive-negative-impacts-with-examples/
 
 https://www.calacademy.org/explore-science/how-to-prepare-for-an-earthquake#:~:text=Earthquakes%20strike%20suddenly%2C%20violently%2C%20and,of%20life%20from%20an%20earthquake.
